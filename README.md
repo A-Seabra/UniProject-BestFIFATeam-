@@ -1,5 +1,5 @@
 # UniProject-BestFIFATeam-
-University project about creating the best possible FIFA team according to specific parameters, using Scikit-Learn and Pandas in Python.
+University project about creating the best possible FIFA team according to specific parameters, using genetic algorythms.
 
 Developed by me, Artur Seabra, and my colleague, Tiago Zorro.
 
